@@ -17,6 +17,12 @@ Documentação para criação dos VirtualHost e Wordpress e Docker Container
 
 ### Primeiros Passos
 
+**Acesando a maquina virtual**
+
+```bash
+    ssh -i yourpemkey.pem usuario@IP-MAQUINA
+```
+
 **Criando o usuario com o shell "BASH" e com o repositorio com seu nome no /home** 
 
 ```bash
