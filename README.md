@@ -48,7 +48,6 @@ Documentação para criação dos VirtualHost e Wordpress e Docker Container
     nginx ALL=(ALL) NOPASSWD: /usr/bin/nano
     nginx ALL=(ALL) NOPASSWD: /bin/systemctl
     nginx ALL=(ALL) NOPASSWD: /usr/sbin/nginx
-    nginx ALL=(ALL) NOPASSWD: /usr/bin/vi /var/lib/pgsql/data/postgresql.conf
     nginx ALL=(ALL) NOPASSWD: /usr/bin/mv" | sudo tee -a  /etc/sudoers.d/nginx_sudoers    
 ```
 
