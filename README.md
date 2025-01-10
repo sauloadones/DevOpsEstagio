@@ -10,7 +10,7 @@ Documentação para criação dos VirtualHost e Wordpress e Docker Container
 - Nginx
 - php-fpm
 - Wordpress
-- Postgres
+- MariaDB
 - Docker
 - AWS Linux
 - Fedora
